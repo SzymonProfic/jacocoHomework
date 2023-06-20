@@ -12,4 +12,6 @@ public class Mefedron extends Drug {
         super(name, priceForOneG, ingredientsList);
         this.facialExpression = facialExpression;
     }
+
+
 }
