@@ -14,4 +14,5 @@ public class Mefedron extends Drug {
     }
 
 
+    // jakaś logika np że jak drugquality jest ok to wykrzywiona twarz XD
 }
